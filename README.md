@@ -51,7 +51,7 @@ This makes GoogLeNet an excellent choice for the **multi-class classification** 
    ```  
 3. Run the script:  
    ```bash
-   food12.py
+   Food12.ipynb
    ```  
 
 ---
