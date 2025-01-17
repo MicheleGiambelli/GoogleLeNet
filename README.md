@@ -57,7 +57,12 @@ This makes GoogLeNet an excellent choice for the **multi-class classification** 
 ---
 
 ### 🤝 **Collaborators**  
-Contributions, feedback, and improvements are welcome! Open an issue or submit a pull request to help enhance this project. 🚀  
+The project was developed as a team effort for the final assessment of the Deep Learning course. I would like to thank my teammates for their contribution and dedication. Below are the team members with links to their respective GitHub profiles:   
+- [Tommaso Biganzoli](https://github.com/biguz-commits)
+- [Matteo Delle Cave](https://github.com/matdcp)
+- [Michele Giambelli](https://github.com/MicheleGiambelli)
+
+Thank you all for the excellent teamwork! 🚀  
 
 ---
 
